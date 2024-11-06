@@ -118,4 +118,4 @@ License
 This project is licensed under the MIT License.
 
 Contact
-For inquiries or support, please reach out to [your_email@example.com].
+For inquiries or support, please reach out to leonardo@sascoisimulation.com
